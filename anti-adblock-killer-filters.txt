@@ -251,6 +251,9 @@ gq.com#@#.text-ad-links
 ! ynet.co.il
 ! https://github.com/reek/anti-adblock-killer/issues?q=ynet.co.il
 @@||ynet.co.il/common/javascript/ads.js$script,~third-party
+! haaretz.co.il
+! https://github.com/reek/anti-adblock-killer/issues?q=haaretz.co.il
+@@||haaretz.co.il/ad/dclk/ad_300x250.jpg
 ! t2e.pl
 ! https://github.com/reek/anti-adblock-killer/issues?q=t2e.pl
 @@||t2e.pl/www/js/ads.js$script
